@@ -15,7 +15,7 @@ public class p3 {
             {'#', '_', '_', '#', '#', '_', '#', '_', '_', 'E'},
             {'#', '#', '#', '#', '#', '#', '#', '#', '#', '#'}
     };
-//erer
+
     static Scanner sc = new Scanner(System.in);
     static RandomGenerator rng = RandomGenerator.getDefault();
 
